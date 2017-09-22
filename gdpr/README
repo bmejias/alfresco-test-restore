@@ -1,0 +1,6 @@
+How to install : 
+
+1) Create a folder
+2) In this folder, copy the .jar file and and application.yml.sample. 
+3) Fill the application.yml.sample and rename it into application.yml
+4) To run: java -jar theJarFile
